@@ -1,0 +1,12 @@
+
+
+.body {
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+  display: flex;
+  justify-content: center; /* يوسّط أفقي */
+  align-items: center;     /* يوسّط عمودي */
+  background-color: #f5f5f5; /* لون خلفية خفيف */
+  font-family: 'Your Font', sans-serif;
+}
